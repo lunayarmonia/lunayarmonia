@@ -6,7 +6,7 @@ body {
   color: #777;
 }
 .text-primary {
-  color: #ff66ff;
+  color: #ff99ff;
 }
 p {
   font-size: 14px;
@@ -23,7 +23,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #ff66ff;
+  color: #ff99ff;
 }
 a:hover,
 a:focus,
@@ -52,8 +52,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #ff66ff;
-  border-color: #ff66ff;
+  background-color: #ff99ff;
+  border-color: #ff99ff;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -87,17 +87,17 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #ff66ff;
-  border-color: #ff66ff;
+  background-color: #ff99ff;
+  border-color: #ff99ff;
 }
 .btn-primary .badge {
-  color: #ff66ff;
+  color: #ff99ff;
   background-color: white;
 }
 .btn-xl {
   color: white;
-  background-color: #ff66ff;
-  border-color: #ff66ff;
+  background-color: #ff99ff;
+  border-color: #ff99ff;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -134,11 +134,11 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: #ff66ff;
-  border-color: #ff66ff;
+  background-color: #ff99ff;
+  border-color: #ff99ff;
 }
 .btn-xl .badge {
-  color: #ff66ff;
+  color: #ff99ff;
   background-color: white;
 }
 .navbar-default {
@@ -146,7 +146,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
-  color: #ff66ff;
+  color: #ff99ff;
   font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-default .navbar-brand:hover,
@@ -159,15 +159,15 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-default .navbar-toggle {
-  background-color: #ff66ff;
-  border-color: #ff66ff;
+  background-color: #ff99ff;
+  border-color: #ff99ff;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: white;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #ff66ff;
+  background-color: #ff99ff;
 }
 .navbar-default .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -179,13 +179,13 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-  color: #ff66ff;
+  color: #ff99ff;
   outline: none;
 }
 .navbar-default .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #ff66ff;
+  background-color: #ff99ff;
 }
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
@@ -415,7 +415,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #ff66ff;
+  background-color: #ff99ff;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -570,7 +570,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: #ff66ff;
+  border-color: #ff99ff;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -600,7 +600,7 @@ section#contact :-ms-input-placeholder {
   color: #bbbbbb;
 }
 section#contact .text-danger {
-  color: #ff66ff;
+  color: #ff99ff;
 }
 footer {
   padding: 25px 0;
@@ -639,7 +639,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #ff66ff;
+  background-color: #ff99ff;
 }
 .btn:focus,
 .btn:active,
@@ -718,11 +718,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: #ff66ff;
+  background: #ff99ff;
 }
 ::selection {
   text-shadow: none;
-  background: #ff66ff;
+  background: #ff99ff;
 }
 img::selection {
   background: transparent;
@@ -731,5 +731,5 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #ff66ff;
+  webkit-tap-highlight-color: #ff99ff;
 }
